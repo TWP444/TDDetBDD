@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Etudiant {
+    private String nom;
     private int annee;
     private List<Matiere> matieres;
 
